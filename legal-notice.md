@@ -13,22 +13,22 @@ BEHINDLOGIN=false
 
 Data according to Section 5 TMG:
 
-Marc Andre Herpers
+Noemi V.
 
-Reinhold-Büttner Straße 5
-47445 Moers
+nyoemii on Discord
+me@nyoemii.dev
 
 Germany
 
 Represented by:
 
-Marc Andre Herpers
+Noemi V.
 
 Contact Information
 
-Email: [webmaster@osunolimits.dev](webmaster@osunolimits.dev)
+Email: [me@nyoemii.dev](me@nyoemii.dev)
 
-Website: [osunolimits.dev](osunolimits.dev)
+Website: [miausu.pw](miausu.pw)
 
 Private website owner
 
