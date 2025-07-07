@@ -17,7 +17,7 @@ This return policy applies to all digital goods, subscriptions, and services pur
 - As required by EU law, you have the right to withdraw from your purchase within 14 days
 
 ##### Refund process
-- *Contact Support:* Email us at [webmaster@osunolimits.dev](webmaster@osunolimits.dev) or on our [Discord](https://discord.gg/8Zv6r3Q) with a ticket within 14 days of purchase.
+- *Contact Support:* Email us at [me@nyoemii.dev](me@nyoemii.dev) or on our [Discord](https://discord.gg/sRBYT8xx2C) with a ticket within 14 days of purchase.
 - *Provide Details:* Include your order ID, purchase date, and reason for withdrawal.
 - *Refund Timeline:* Refunds are processed within 14 days after the withdrawal request is approved.
 
