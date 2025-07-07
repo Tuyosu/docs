@@ -2,7 +2,7 @@
 ICON=fa-solid fa-server
 ROUTE=connect
 SHORT=Connect
-TITLE=Connect to osuNoLimits
+TITLE=Connect to Tuyosu
 NAVBAR=true
 FOOTER=false
 BEHINDLOGIN=false
@@ -13,9 +13,9 @@ BEHINDLOGIN=false
 2. Right-Click it
 3. Select propeties
 
-Enter for target after the path for osu! ` -devserver osunolimits.dev`
+Enter for target after the path for osu! ` -devserver miausu.pw`
 
-<input class="form-control" type="readonly" id="dev" value=" -devserver osunolimits.dev"></input>
+<input class="form-control" type="readonly" id="dev" value=" -devserver miausu.pw"></input>
 
 <a class="btn btn-info" onclick="copydev()">Copy devserver</a>
 
@@ -40,4 +40,4 @@ osu-server-list Launcher powered by <a href="https://osu-server-list.com/launche
         alert("Copied the text: " + copyText.value);
     }
 </script>
-Do you still have issues? visit out <a href="https://discord.gg/UMCfgKSb5h">Discord</a>
+Do you still have issues? visit out <a href="https://discord.gg/sRBYT8xx2C">Discord</a>
