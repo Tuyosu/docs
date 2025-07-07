@@ -13,12 +13,12 @@ BEHINDLOGIN=false
 
 
 ##### 1. Introduction  
-Welcome to osunolimits.dev, an osu! private server operated by Marc Andre Herpers ("we," "our," or "us"). By using our website and services, you agree to these Terms of Service ("Terms"). If you do not agree, please discontinue use of our services.
+Welcome to Tuyosu, an osu! private server operated by Noemi V. ("we," "our," or "us"). By using our website and services, you agree to these Terms of Service ("Terms"). If you do not agree, please discontinue use of our services.
 
 ---
 
 ##### 2. Services  
-osunolimits.dev provides a private osu! game server and related features. Services include account creation, game statistics tracking, and leaderboard management.
+Tuyosu provides a private osu! game server and related features. Services include account creation, game statistics tracking, and leaderboard management.
 
 ---
 
@@ -36,7 +36,7 @@ We process this data in compliance with applicable data protection laws.
 ##### 4. Account Deletion Requests  
 If you wish to delete your account and remove your personal data from our servers, send a deletion request to:  
 
-**Email:** webmaster@osunolimits.dev  
+**Email:** me@nyoemii.dev
 
 Please include your registered username and email address for verification purposes. Account deletions are irreversible.
 
@@ -61,7 +61,7 @@ Payments for premium features are processed through Stripe Checkout. You will be
 ##### 7. Privacy and Data Protection  
 We are committed to protecting your personal data. Our Data Protection Officer is:  
 
-**Marc Andre Herpers**  
+**Noemi V. (nyoemii on Discord)**  
 
 For data protection inquiries, please contact us through the official support channels listed on our website.
 
@@ -92,7 +92,7 @@ We may update these Terms from time to time. Significant changes will be announc
 ---
 
 ##### 12. Contact Information  
-For any questions about these Terms, please contact us through the official support channels listed on osunolimits.dev.
+For any questions about these Terms, please contact us through the official support channels listed on Tuyosu.
 
 ---
 
