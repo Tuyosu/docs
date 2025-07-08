@@ -13,9 +13,9 @@ BEHINDLOGIN=false
 2. Right-Click it
 3. Select propeties
 
-Enter for target after the path for osu! ` -devserver miausu.pw`
+Enter for target after the path for osu! ` -devserver tuyosu.de`
 
-<input class="form-control" type="readonly" id="dev" value=" -devserver miausu.pw"></input>
+<input class="form-control" type="readonly" id="dev" value=" -devserver tuyosu.de"></input>
 
 <a class="btn btn-info" onclick="copydev()">Copy devserver</a>
 
