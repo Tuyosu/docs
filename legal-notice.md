@@ -28,7 +28,7 @@ Contact Information
 
 Email: [me@nyoemii.dev](me@nyoemii.dev)
 
-Website: [miausu.pw](miausu.pw)
+Website: [tuyosu.de](tuyosu.de)
 
 Private website owner
 
